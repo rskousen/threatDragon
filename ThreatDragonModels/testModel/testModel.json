@@ -10,7 +10,40 @@
       {
         "title": "Test1",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 740,
+                "y": 490
+              },
+              "target": {
+                "x": 380,
+                "y": 490
+              },
+              "vertices": [
+                {
+                  "x": 550,
+                  "y": 380
+                },
+                {
+                  "x": 380,
+                  "y": 490
+                }
+              ],
+              "id": "b35a3154-5c79-4f2e-8482-878fa1602cf7",
+              "z": 1,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ],
     "reviewer": "Ryan"
